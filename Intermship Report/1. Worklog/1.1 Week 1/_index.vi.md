@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 1"
-date: 2025-09-08
+date: 2025-09-09
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
@@ -19,7 +19,7 @@ pre: " <b> 1.1. </b> "
 
 | Ngày | Công việc                                   | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
 | ---- | ------------------------------------------- | ------------- | ---------------- | -------------------- |
-| 1    | Tạo tài khoản AWS đầu tiên                  | 09/08/2025    | 09/08/2025       | https://cloudjourney.awsstudygroup.com/ |
+| 1    | Tạo tài khoản AWS đầu tiên                  | 09/08/2025    | 09/09/2025       | https://cloudjourney.awsstudygroup.com/ |
 | 2    | Tạo Admin Group và Admin User               | 09/09/2025    | 09/09/2025       | https://cloudjourney.awsstudygroup.com/ |
 | 3    | Cài đặt Hugo                                | 09/10/2025    | 09/10/2025       |  |
 | 4    | Khám phá AWS Management Console             | 09/11/2025    | 09/11/2025       | https://cloudjourney.awsstudygroup.com/ |
