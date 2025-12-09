@@ -25,7 +25,7 @@ production-ready level.
   to improve performance and cost efficiency.
 
 ## Timeframe
-- **Total duration:** 12 weeks (starting from 08/09/2025 according to Week 1).  
+- **Total duration:** 12 weeks (starting from 09/09/2025 according to Week 1).  
 - **Weekly workload:** each week contained structured tasks (usually 5 tasks per  
   week) — combining theory and practice, typically completing 1–2 tasks per day  
   depending on complexity.

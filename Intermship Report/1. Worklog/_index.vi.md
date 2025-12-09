@@ -10,7 +10,7 @@ Bản Worklog này ghi lại toàn bộ hành trình học và thực hành AWS 
 - **Kiểm thử & tối ưu:** sau khi triển khai, tôi chạy các kiểm thử (kết nối, load test cơ bản, health check), theo dõi metrics bằng CloudWatch và điều chỉnh cấu hình (SG, sizing, lifecycle rules...) để tối ưu hiệu năng và chi phí.
 
 ## Thời gian hoàn thành
-- **Tổng thời gian:** 12 tuần (tuần 1 bắt đầu 08/09/2025 theo Worklog).  
+- **Tổng thời gian:** 12 tuần (tuần 1 bắt đầu 09/09/2025 theo Worklog).  
 - **Tần suất:** mỗi tuần có các nhiệm vụ cụ thể (thường 5 ngày công việc/tuần theo bảng Tasks) — tổng hợp lý thuyết + thực hành, mỗi ngày hoàn thành 1–2 task tuỳ độ phức tạp.
 
 ## Nội dung đã thực hiện theo tuần (tóm tắt)
