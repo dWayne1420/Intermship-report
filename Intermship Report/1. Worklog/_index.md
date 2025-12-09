@@ -31,7 +31,7 @@ production-ready level.
   depending on complexity.
 
 ## Weekly Summary
-- **[Week 1 — AWS Foundations]({{< relref "1.1 Week 1" >}})**  
+- **[Week 1 — AWS Foundations]({{< relref "1. Worklog/1.1 Week 1" >}})**  
  Created Free Tier account, built IAM baseline,  
   installed Hugo, explored Console, configured AWS Budgets and AWS CLI.  
 - **Week 2 — IAM & VPC:** Managed IAM (users/groups/roles/policies), built VPC  
