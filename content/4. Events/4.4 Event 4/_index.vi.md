@@ -1,6 +1,6 @@
 ---
 title: "Event4"
-date: 2025-11-29T08:30:00+07:00
+date: 2025-11-17
 draft: true
 pre: " <b> 4.4. </b> "
 ---
