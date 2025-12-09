@@ -1,11 +1,3 @@
----
-title: "Giới thiệu Worklog"
-date: 2025-09-08
-weight: 0
-chapter: false
-pre: " <b> 0.0. </b> "
----
-
 # Giới thiệu Worklog
 
 ## Tổng quan

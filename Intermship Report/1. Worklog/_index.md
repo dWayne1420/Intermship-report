@@ -1,11 +1,3 @@
----
-title: "Worklog Introduction"
-date: 2025-09-08
-weight: 0
-chapter: false
-pre: " <b> 0.0. </b> "
----
-
 # Worklog Introduction
 
 ## Overview
