@@ -21,7 +21,7 @@ pre: " <b> 1.1. </b> "
 | --- | -------------------------------------------- | ---------- | --------------- | ------------------ |
 | 1   | Creating my first AWS account                | 09/08/2025 | 09/08/2025      | https://cloudjourney.awsstudygroup.com/ |
 | 2   | Create Admin Group and Admin User            | 09/09/2025 | 09/09/2025      | https://cloudjourney.awsstudygroup.com/ |
-| 3   | Setting Hugo                                 | 09/10/2025 | 09/10/2025      | https://cloudjourney.awsstudygroup.com/ |
+| 3   | Setting Hugo                                 | 09/10/2025 | 09/10/2025      |  |
 | 4   | Explore AWS Management Console               | 09/11/2025 | 09/11/2025      | https://cloudjourney.awsstudygroup.com/ |
 | 5   | Create Budget by Template                    | 09/12/2025 | 09/12/2025      | https://cloudjourney.awsstudygroup.com/ |
 
